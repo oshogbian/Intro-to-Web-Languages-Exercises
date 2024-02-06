@@ -1,0 +1,19 @@
+/* External CSS stylesheet */
+
+body {
+   font-family: 'Arial', sans-serif; /* Choose your desired font */
+   background-color:blue; /* Choose your desired background color */
+   color: white; /* Choose your desired text color */ 
+}
+
+header {
+   text-align: center;
+}
+
+#main-title {
+   color: #3498db; /* Choose your desired text color */
+}
+
+.content {
+   margin-bottom: 12px;
+}
